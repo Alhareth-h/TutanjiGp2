@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28515859742",
+    "project_id": "torbetnah",
+    "storage_bucket": "torbetnah.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28515859742:android:805ae46a3782bab6d61d0f",
+        "android_client_info": {
+          "package_name": "com.example.gp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClo7lfEGZSxzVkO8ABcMANaB61LL51MjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
